@@ -11,7 +11,7 @@ This project is designed to get you up with **fully working example code** in le
 ### HttpToFile 
 ##### _a Camel example project_
 
-Functionality: **_Uses camel-http to copy this github page to file_**
+Functionality: **_Uses camel-http to copy wired.com to file_**
 
 Instructions: _From your workspace directory, git clone both this and it's sibling, then mvn install it's sibling._
 
